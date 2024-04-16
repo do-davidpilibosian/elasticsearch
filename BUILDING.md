@@ -1,4 +1,4 @@
-Building Elasticsearch with Gradle
+Test Building Elasticsearch with Gradle
 =============================
 
 Elasticsearch is built using the [Gradle](https://gradle.org/) open source build tools.
